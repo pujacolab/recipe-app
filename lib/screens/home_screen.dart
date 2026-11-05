@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('My Recipe App 🍲'),
+        title: const Text('Recipes App'),
         backgroundColor: Colors.orange,
         actions: [
           IconButton(
