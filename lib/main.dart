@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: ' My Recipe App',
+      title: ' My Recipes App',
       theme: ThemeData(
         primarySwatch: Colors.orange,
         useMaterial3: true,
